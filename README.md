@@ -1,5 +1,5 @@
 # bot_telegram_template
-Шаблон телеграм бота на Telebot
+Шаблон телеграм бота на pyTelegramBotAPI
 
 Мы используем pyTelegramBotAPI
 
